@@ -1,4 +1,4 @@
-# Simple Unix Shell Clone
+# Unix Shell Clone
 
 This project is a simple clone of a Unix shell, designed to demonstrate the basic functionalities of command interpretation, process spawning, and execution control. It is implemented in C and can be compiled using GCC or any standard C compiler.
 
